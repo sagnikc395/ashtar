@@ -1,3 +1,3 @@
 ## ashtar
 
-An implementation of a C compiler in Python.
+An implementation of a C compiler in Rust.
